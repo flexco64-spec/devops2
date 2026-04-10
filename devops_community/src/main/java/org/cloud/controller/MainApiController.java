@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import jakarta.servlet.http.HttpSession;
-
+//체크 잘하자
 @CrossOrigin(origins = "http://localhost:5173")
 @RestController
 @RequestMapping("/api/member")
